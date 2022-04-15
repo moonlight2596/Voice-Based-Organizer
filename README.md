@@ -17,7 +17,7 @@ These instructions have been tried for Windows 10. They may differ for other pla
 ![2022-04-14 14_52_53-](https://user-images.githubusercontent.com/77152143/163507155-e36d3d45-20b9-451c-acdd-378028c52315.png)
 ![2022-04-14 14_57_12-](https://user-images.githubusercontent.com/77152143/163507193-f1287688-a2f2-4107-9568-100674e36f00.png)
 
-For Windows, there is a flac file in this repository to be placed in C:\Windows\System32.
+For Windows, there is a flac file in this repository to be placed in C:\Windows\System32. Or it can be downloaded from the internet. It is named "flac.exe" but needs to be renamed to "flac" so that the code will see it.
 
 IF you have other python distributions on your system, you may have to include the path to the one shipped with this environment to run the program.
 
